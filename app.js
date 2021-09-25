@@ -1,8 +1,7 @@
 // // console.log("Hello");
 
-// const hello = ()=> {
-//     console.log("Hi there");
-// }
+ const hello = ()=> {     console.log("Hi there");
+ }
 
 // setTimeout(()=>{
 //     console.log('Hello')
